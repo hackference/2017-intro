@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Welcome to Hackference 2017",
+    "packageVersion": "0.0.1",
+    "revealTheme": "simple",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "hackference",
+    "githubRepository": "2017-intro"
+  }
+}
